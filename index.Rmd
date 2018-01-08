@@ -2,5 +2,23 @@
 title: "Michael Mann"
 ---
 
-# Master's Student at University of New Mexico
-## Jenn Rudgers and Lee Taylor Lab
+
+
+
+
+
+#####
+
+I am a Master's studen in the [Jenn Rudgers](http://biology.unm.edu/WhitneyRudgers/index.html) and [Lee Taylor Lab](https://taylorlabunm.weebly.com/) at the University of New Mexico. 
+
+My interests include community assembly and fungal endophytes. 
+
+
+I also make [music!](https://michaelmann9.bandcamp.com/album/night-music) 
+
+
+```{r out.width = "1000px", echo = FALSE}
+knitr::include_graphics("/Users/michaelmann/Dropbox/website/personal_site/pictures/RMBL_valley.JPG")
+```
+RMBL Field Site
+

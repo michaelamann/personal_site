@@ -1,9 +1,12 @@
 name: "michaels-website"
 output_dir: "."
 navbar:
-  title: "michaels Website"
+  title: "Michael Mann"
   left:
     - text: "Home"
       href: index.html
     - text: "About Me"
       href: about.html
+output:
+  html_document:
+    theme: sandstone
